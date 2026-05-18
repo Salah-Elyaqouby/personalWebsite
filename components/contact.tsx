@@ -7,8 +7,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "salahyaqouby@gmail.com",
-    href: "mailto:salahyaqouby@gmail.com",
+    value: "salahyaqouby475@gmail.com",
+    href: "mailto:salahyaqouby@475gmail.com",
   },
   {
     icon: MessageCircle,
